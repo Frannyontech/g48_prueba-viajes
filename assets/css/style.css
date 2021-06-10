@@ -4,6 +4,10 @@ body{
     font-family: 'Raleway';
 }
 
+.fas {
+    background-color: #39ACBA;
+    width: 100%;
+}
 
 .footer_viajes{
     font-size: 25px;
