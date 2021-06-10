@@ -1,4 +1,4 @@
-# g48_prueba-viajes
+Viajes Chile
 Description
 This is a simple landing page for a small travelling company located in Chile
 
