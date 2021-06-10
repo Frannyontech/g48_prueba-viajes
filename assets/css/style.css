@@ -1,0 +1,43 @@
+
+body{
+    background-color: #000;
+    font-family: 'Raleway';
+}
+
+
+.footer_viajes{
+    font-size: 25px;
+}
+
+footer {
+    background-color: #39ACBA;
+}
+
+.card{
+    background-color: #39ACBA;
+}
+
+.lorem {
+    justify-content: right;
+    color: #fff;
+}
+p{
+    text-align: left;
+}
+
+.border-bottom {
+    border-color: #39ACBA!important;
+}
+
+h2{
+    font-size: 20px;
+    font-family: 'Raleway';
+    padding: 1.25rem;
+}
+
+
+a{
+    outline: none;
+    text-decoration: none;
+    color: #fff;
+}
